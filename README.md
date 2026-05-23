@@ -1,57 +1,69 @@
 # Hi There, I'm Ahmed Adel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### **Backend Developer & Security Researcher | The Architect-Hunter**
+### **Secure Software Architect | Backend Developer & Cyber Security Expert**
 
-I am a Management Information Systems student, Full-Stack/Backend Developer, and specialized Security Researcher. My philosophy revolves around the **Architect-Hunter** methodology: *I master how complex systems are engineered and built, which uniquely empowers me to analyze, stress-test, and secure them against advanced vulnerabilities.*
+I am a Management Information Systems student and a Software Engineer specializing in high-performance Backend Development and Offensive Cyber Security. Following an **Architect-Hunter** methodology, I master how secure enterprise systems are engineered, built, and optimized, giving me a massive edge in identifying deep logical vulnerabilities, conducting advanced penetration testing, and writing bulletproof code.
 
-Whether building scalable web APIs or hunting for critical security flaws, I bridge the gap between robust development and offensive security.
+Beyond backend engineering, I have a strong passion for Game Development and Advanced Security Research, bridging the gap between immersive system design and elite cybersecurity operations.
 
 ---
 
 ## ⚡ Quick Overview
-* 🛠️ Currently architecting secure backend solutions using **C#, .NET Core, and PHP**.
-* 🔍 Actively engaged in **Bug Bounty Hunting** and Web Application Penetration Testing.
-* 🎓 Pursuing a degree in **Management Information Systems**.
-* 🚀 Passionate about high-performance architecture, secure coding practices, and deep-dive reconnaissance.
+* 🛠️ Architecting secure, high-throughput web applications and APIs using **.NET Core, C#, and PHP**.
+* 🎯 Actively training for and mastering world-class cybersecurity certifications (**OSCP, eCPPT, eJPT v1/v2**).
+* 🕹️ Developing and designing interactive systems utilizing **Game Development & Design** concepts.
+* 🎓 Academic background in **Management Information Systems**.
 
 ---
 
-## 🛠️ Skill Set
+## 🛠️ Complete Technical Skill Set
 
-### **Software Engineering & Backend Development**
+### **Backend Development & Software Engineering**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC%20%26%20Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC%20%26%20Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-### **Databases & Infrastructure**
+### **Databases & Architecture Patterns**
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository%20Pattern-Grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Grey?style=for-the-badge" />
 </p>
 
-### **Cybersecurity & Offensive Skills**
+### **Cybersecurity Credentials & Focus Areas**
 <p align="left">
-  <img src="https://img.shields.io/badge/Web%20App%20Penetration%20Testing-Red?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-E33F23?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20Reconnaissance-0052CC?style=for-the-badge&logo=attack&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCP%20(Offensive%20Security)-OffSec?style=for-the-badge&logo=offensive-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/eCPPT%20(Professional%20PenTester)-Red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/eJPT%20v1%20%2F%20v2%20(Junior%20PenTester)-Blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Access%20Control%20%26%20Auth%20Bypass-Critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20%26%20Web%20Penetration%20Testing-000000?style=for-the-badge" />
+</p>
+
+### **Game Design & Core Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Game%20Design%20%26%20Development-Purple?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-Grey?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Featured Projects & Achievements
+## 🚀 Featured Projects & Experience
 
-### 🏥 **MediCare – Clinic Management & Appointment System**
+### 🏥 **MediCare – Secure Clinic Management System**
 * **Tech Stack:** C#, .NET Core, Entity Framework Core, SQL Server.
-* **Overview:** A comprehensive full-stack management solution designed with secure architecture principles, proper authentication handling, and robust database entity modeling to handle high-traffic operations efficiently.
+* **Architecture:** Implemented clean architecture with secure database entity modeling, strict access control, and robust input validation to prevent common web vulnerabilities.
+* **Core Features:** Complete doctor-patient appointment lifecycle management, highly optimized database queries, and structured internal API routing.
 
-### 🎯 **Vulnerability Research & Bug Hunting**
-* Successfully identified and responsibly disclosed severe logical and access control vulnerabilities (including **Access Control Bypasses** and **Information Disclosures**) on public applications and VDP platforms.
-* Specialized in reverse-engineering application logic to locate deep-seated security gaps that automated scanners overlook.
+### 🕹️ **Game Development & Design Exploration**
+* Leveraging **C++ and C#** to understand memory management, low-level system interactions, and physics engines inside game development.
+* Applying game loops and design patterns to build optimized and responsive software.
 
 ---
 
