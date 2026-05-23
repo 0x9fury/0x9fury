@@ -1,30 +1,30 @@
 # Hi There, I'm Ahmed Adel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### **Secure Software Architect | Backend Developer & Cybersecurity Researcher**
+### **Full-Stack .NET Developer & Cybersecurity Enthusiast | The Architect-Hunter**
 
-I am a Management Information Systems student and a Software Engineer specializing in high-performance Backend Development and Offensive Security. Driven by the **Architect-Hunter** methodology, I deeply study how secure enterprise systems are engineered from the ground up, giving me a massive edge in writing clean code, designing databases, and analyzing complex logical flaws.
+I am a Management Information Systems student and a Full-Stack Web Developer specializing in the **.NET Ecosystem**. My learning methodology relies on the **Architect-Hunter** approach: *I build, design, and architect robust enterprise systems first, to deeply understand how they function, which enhances my capabilities in both software engineering and offensive security.*
 
-Beyond backend engineering, I have a strong passion for Game Development, Advanced Reconnaissance, and studying elite cybersecurity frameworks.
+From crafting secure backend APIs to diving into advanced reconnaissance, low-level game loops, and system optimization—I love understanding how technology works under the hood.
 
 ---
 
 ## ⚡ Quick Overview
-* 🛠️ Architecting secure web applications and APIs using **.NET Core, C#, C++, and PHP**.
+* 💻 Developing Full-Stack web applications using **C#, ASP.NET Core, and PHP**.
 * 🎓 **Certified:** Earned the **Foundational C# Certification** from **freeCodeCamp in partnership with Microsoft**.
-* 🎯 Deeply studied the advanced syllabi and methodologies of elite security tracks (**OSCP, eCPPT, and eJPT v1/v2**).
-* 🕹️ Exploring **Game Design & Development** to master memory management and low-level system design.
-* 🖥️ Tech enthusiast with a strong interest in high-performance hardware, optimization, and cozy, grand cinematic atmospheres.
+* 🔍 Deeply studied the full offensive syllabi of world-class security tracks (**OSCP, eCPPT, and eJPT v1/v2**).
+* 🕹️ Exploring **Game Development & Design** using **C++** to master memory management and performance optimization.
+* 🛡️ Utilizing dedicated programming languages to build custom scripts for cybersecurity and infrastructure research.
 
 ---
 
 ## 🛠️ Complete Technical Skill Set
 
-### **Backend Development & Software Engineering**
+### **Full-Stack & Backend Web Development**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC%20%26%20Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core%20%2F%206%20%2F%208-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
@@ -38,32 +38,32 @@ Beyond backend engineering, I have a strong passion for Game Development, Advanc
   <img src="https://img.shields.io/badge/LINQ-Grey?style=for-the-badge" />
 </p>
 
-### **Cybersecurity Deep Study & Security Skills**
+### **Cybersecurity & Reconnaissance**
 <p align="left">
   <img src="https://img.shields.io/badge/OSCP%20Syllabus%20Studied-OffSec?style=for-the-badge&logo=offensive-security&logoColor=white" />
   <img src="https://img.shields.io/badge/eCPPT%20%26%20eJPT%20Content%20Mastered-Red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Access%20Control%20Bypass%20Analysis-Critical?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Advanced%20Reconnaissance-0052CC?style=for-the-badge&logo=attack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Information%20Disclosure%20Mitigation-Black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20%26%20Web%20Penetration%20Testing-000000?style=for-the-badge" />
 </p>
 
-### **Game Design & Core Tools**
+### **Game Development & Systems Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Game%20Design%20%26%20Development-Purple?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B%20(Low%20Level%20%26%20Security)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity%20Engine-🕹️-black?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 **MediCare – Secure Clinic Management System**
+### 🏥 **MediCare – Clinic Management & Appointment System**
 * **Tech Stack:** C#, .NET Core, Entity Framework Core, SQL Server.
-* **Architecture:** Developed using a clean repository pattern with optimized database entity modeling. Integrated secure input validation and robust routing to ensure system integrity.
-* **Core Features:** Complete doctor-patient scheduling lifecycle, automated database queries, and highly structured backend APIs.
+* **Architecture:** Built from scratch as a Full-Stack vocational project using a clean Repository Pattern and structured database entity modeling.
+* **Core Features:** Complete doctor-patient scheduling lifecycle, highly optimized LINQ queries, and clean MVC/API routing designed to mimic enterprise-level applications.
 
-### 🕹️ **Game Design & Low-Level Systems Exploration**
-* Utilizing **C++ and C#** to explore memory management, physics logic, and design patterns inherent in game development loops, translating those optimization skills back into backend web services.
+### 🕹️ **Game Design & C++ Security Fundamentals**
+* Utilizing **C++** within the **Unity Engine** context and low-level scripts to understand memory management and execution flows. This deep dive directly enhances my ability to write optimized backend code and analyze software infrastructure at a deeper level.
 
 ---
 
