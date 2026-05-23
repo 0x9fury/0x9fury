@@ -48,7 +48,7 @@ I am a Management Information Systems student and a Software Engineer. Guided by
   <img src="https://img.shields.io/badge/eCPPT%20%26%20eJPT%20Content%20Mastered-Red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Advanced%20Reconnaissance-0052CC?style=for-the-badge&logo=attack&logoColor=white" />
   <img src="https://img.shields.io/badge/Network%20%26%20Web%20Penetration%20Testing-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web Application Security?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Application%20Security-Red?style=for-the-badge" />
 </p>
 
 ### **Game Development & Art Tools**
