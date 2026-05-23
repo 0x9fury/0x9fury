@@ -42,7 +42,7 @@ I am a Management Information Systems student and a Software Engineer. Guided by
   <img src="https://img.shields.io/badge/MongoDB%20(NoSQL)-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### **Cybersecurity **
+### **Cybersecurity**
 <p align="left">
   <img src="https://img.shields.io/badge/OSCP%20-OffSec?style=for-the-badge&logo=offensive-security&logoColor=white" />
   <img src="https://img.shields.io/badge/eCPPT%20%26%20eJPT%20Content%20Mastered-Red?style=for-the-badge" />
