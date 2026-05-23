@@ -18,6 +18,7 @@ I am a Management Information Systems student and a Software Engineer. Guided by
 
 ### **Programming & Scripting Languages**
 <p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -83,8 +84,8 @@ I am a Management Information Systems student and a Software Engineer. Guided by
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true" alt="Ahmed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x9fury&show_icons=true&theme=radical&include_all_commits=true" alt="Ahmed's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x9fury&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 ---
