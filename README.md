@@ -84,9 +84,7 @@ I am a Management Information Systems student and a Software Engineer. Guided by
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x9fury&show_icons=true&theme=radical&include_all_commits=true" alt="Ahmed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x9fury&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x9fury&show_icons=true&theme=radical&include_all_commits=true" alt="Ahmed's GitHub Stats" height="180px" /></p>
 
 ---
 
