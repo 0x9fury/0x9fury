@@ -61,8 +61,6 @@ I am a Management Information Systems student and a Software Engineer. Guided by
 ### **Architecture & Development Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Repository%20Pattern-Grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dependency%20Injection-Grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LINQ-Grey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
