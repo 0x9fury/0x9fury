@@ -47,7 +47,6 @@ I am a Management Information Systems student and a Software Engineer. Guided by
 <p align="left">
   <img src="https://img.shields.io/badge/OSCP%20-OffSec?style=for-the-badge&logo=offensive-security&logoColor=white" />
   <img src="https://img.shields.io/badge/eCPPT%20%26%20eJPT%20Content%20Mastered-Red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Advanced%20Reconnaissance-0052CC?style=for-the-badge&logo=attack&logoColor=white" />
   <img src="https://img.shields.io/badge/Network%20%26%20Web%20Penetration%20Testing-000000?style=for-the-badge" />
 </p>
 
